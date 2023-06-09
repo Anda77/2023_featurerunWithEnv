@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cucumber-junit5-example-master/cucumber-juni5-example.iml" filepath="$PROJECT_DIR$/cucumber-junit5-example-master/cucumber-juni5-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cucumber-junit5-example-master.iml" filepath="$PROJECT_DIR$/.idea/cucumber-junit5-example-master.iml" />
+    </modules>
+  </component>
+</project>
